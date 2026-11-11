@@ -1,0 +1,364 @@
+{
+    "dimensions": [
+        {
+            "id": "proactivity",
+            "name": "Proactivity",
+            "category": "Ownership",
+            "question": "Do I share ideas proactively, find out solutions to problems and seek opportunities to scale impact?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Shows enthusiasm by engaging in team meetings and actively listening/building context. Proactively asks clarifying Q's and assists with small improvements in processes under guidance from senior team members. Completes assigned tasks reliably and begins to seek out additional tasks as comfort with responsibilities grows."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Actively participates in team meetings by sharing relevant input and asking clarifying questions. Proactively asks clarifying questions and initiates process improvement tasks. Demonstrates a willingness to learn new tools/methodologies. Demonstrates a willingness to take on additional tasks and responsibilities as necessary."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Actively participates in team meetings by sharing their strategic opinion on team approach / decision making process. Proactively asks clarifying questions and identifies and leads projects to enhance efficiency. Shows dedication to professional development, continuously improving skills.Seeks opportunities to scale their impact through driving larger, more complex projects."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Actively participates in leadership meetings by sharing their strategic opinion and driving healthy debate; focuses on the required outcome and drives the group in that direction. Drives strategic initiatives aligned with company goals. Identifies and champions new analytical tools and frameworks and cross-functional collaboration.Sets an example for other analysts through taking on broader responsibilities outside of their technical domain of ownership."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Actively participates in team meetings by sharing their strategic opinion on team approach / decision making process. Proactively asks clarifying questions and identifies and leads projects to enhance efficiency. Shows dedication to professional development, continuously improving skills.Seeks opportunities to scale their impact through driving larger, more complex projects."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Actively participates in leadership meetings by sharing their strategic opinion and driving healthy debate, focuses on the required outcome and drives the group in that direction. Drives strategic initiatives aligned with company goals. Identifies and champions new analytics frameworks and cross-functional collaboration.Sets an example for other analysts through taking on broader responsibilities outside of their leadership domain."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Sets and drives leadership meetings in the org they support (i.e. across groups/squads/tribe). Shares their strategic opinion and drives healthy debate. Remains focused on driving the group towards an outcome. Proactively identifies high impact opportunies and delivers (independently or with team) analytical / decision making frameworks to help their home org execute against them. Sets an example for other analysts through taking on broader responsibilities outside of their leadership domain."
+                }
+            ]
+        },
+        {
+            "id": "feedback",
+            "name": "Feedback",
+            "category": "Ownership",
+            "question": "Do I promote and implement a feedback culture?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Reflects on their own performance based on outcomes and feedback from others. Shows a growth mindset; gracefully accepts feedback and seeks to understand the cause. Participates in discussions for potential areas for development with their lead/team."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Proactively seeks feedback on their performance from key stakeholders at key moments (e.g. after delivery of an analytical piece of work). Shows a growth mindset; takes feedback as a constructive tool for growth. Drives discussions for the most impactful areas of development with their team/lead."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Proactively seeks feedback on the performance of their team and their role in it at key moments (e.g. after a key team project milestone/delivery). Demonstrates objectivity and is able to own mistakes made by the team and their role in it. Contributes to team plans to implement constructive feedback and improve ways of working."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Creates a culture of constructive feedback by delivering high quality feedback at key moments to individuals/teams. Proactively seeks feedback on their impact and encourages honesty on potential areas for improvement. Identifies highest impact areas for improvement and creates a targeted plan to address these. Implements plan and demonstrably makes progress against them."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Proactively seeks feedback on the performance of their team and their role in it at key moments (e.g. after a key team project milestone/delivery). Demonstrates objectivity and is able to own mistakes made by the team and their role in it. Contributes to team plans to implement constructive feedback and improve ways of working."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Creates a culture of constructive feedback by delivering high quality feedback at key moments to individuals/teams. Proactively seeks feedback on their impact and encourages honesty on potential areas for improvement. Identifies highest impact areas for improvement and creates a targeted plan to address these. Implements plan and demonstrably makes progress against them."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Creates a culture of constructive feedback by delivering high quality feedback at key moments to individuals / teams / squads. Proactively seeks feedback on their impact; creates a targeted plan to address highest impact areas for improvement and tracks progress against them. Advocates for transparency and continued improvement across the entire org they support (i.e. across groups/squads/tribe) based on timely, actionable feedback."
+                }
+            ]
+        },
+        {
+            "id": "project_management",
+            "name": "Project Management",
+            "category": "Team Management",
+            "question": "How do I manage projects within the team to ensure success and development?",
+            "levels": [
+                {
+                    "level": "IC3",
+                    "description": "Coordinate medium-sized projects, ensuring effective communication and task allocation among team members, with occasional supervision. Keep track of project timelines and deliverables, making proactive adjustments to plans in response to changing circumstances or new information. Regularly follow up with team members to maintain alignment with project goals, addressing any issues or delays with minimal supervision."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Identifies and leads technical delivery of large-scale, organisationally-complex projects, escalating when organisational blockers arise. Continuously monitor project progress, making strategic adjustments to plans and priorities to align with business objectives and changing conditions. Actively follow up with team members and stakeholders, ensuring accountability and promptly resolving issues to keep projects on track, demonstrating resilience and autonomy."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Coordinate medium-sized projects, ensuring effective communication and task allocation among team members, with occasional supervision. Keep track of project timelines and deliverables, making proactive adjustments to plans in response to changing circumstances or new information. Regularly follow up with team members to maintain alignment with project goals, addressing any issues or delays with minimal supervision."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Identifies and leads technical delivery of large-scale, organisationally-complex projects, escalating when organisational blockers arise. Continuously monitor project progress, making strategic adjustments to plans and priorities to align with business objectives and changing conditions. Actively follow up with team members and stakeholders, ensuring accountability and promptly resolving issues to keep projects on track, demonstrating resilience and autonomy."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Leads management of the most strategically important projects in the area of ownership - i.e. groups/squads/tribe. Manages resources and dependencies across functions to meet timelines and ensures delivery of high-impact outcomes."
+                }
+            ]
+        },
+        {
+            "id": "coaching",
+            "name": "Coaching and development",
+            "category": "Team Management",
+            "question": "How do I support and develop junior team members to enhance their skills and growth",
+            "levels": [
+                {
+                    "level": "IC3",
+                    "description": "Provides regular feedback and guidance to junior team members, supporting their growth with occasional supervision. Organizes and conducts training sessions or workshops, sharing expertise and best practices with the team. Sets clear developmental goals for junior team members and offers structured support to help them achieve these goals."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Mentors the pipeline of analysts with potential to become senior IC's Identifies and closes gaps in technical and domain knowledge across the analyst org Promotes a culture of continuous learning and development, ensuring that team members have opportunities for technical growth aligned with organizational goals."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Provides regular feedback and guidance to junior team members, supporting their growth with occasional supervision. Organizes and conduct training sessions or workshops, sharing expertise and best practices with the team. Sets clear developmental goals for junior team members and offer structured support to help them achieve these goals."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Create and implement comprehensive coaching programs to enhance team skills and capabilities, operating with a high degree of independence. Regularly perform detailed performance reviews, providing constructive feedback to identify and nurture strengths and address areas for improvement. Promotes a culture of continuous learning and development, ensuring that team members have opportunities for professional growth aligned with organizational goals."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Drives talent development across the analytics function (mentorship programs, learning events, development paths etc). Demonstrates ability to develop strong leads who can build and manage high-performing teams. Fosters a values-driven team culture, ensuring collaboration, excellence and growth are embedded across the analytics org."
+                }
+            ]
+        },
+        {
+            "id": "problem_solving",
+            "name": "Problem Solving",
+            "category": "Strategic Thinking",
+            "question": "Do I decide and propose the most relevant & strategic problems to solve based on my commercial squad needs",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Understands and applies basic strategic principles to daily tasks and objectives. Shows curiosity about broader company goals and how individual tasks contribute to team and tribe KPIs. Asks questions and seeks learning opportunities to gain a better understanding of strategic thinking."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Has a clear opinion on KPIs of the team. Drives opportunity sizing work (as well as retroes and attribution). Comes up independently with ideas of analysis and discovery to move those KPIs, ensures that every piece of analysis has a clear link to impact along the agreed KPIs. Has a clear opinion on which projects/tasks are important and which are not, is comfortable saying 'No' to non-impactful requests."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Leads setting KPIs at a small/average size squad/group/pod level, ensures those KPIs are actively used for prioritizing team's work (this includes planning, opp sizing, retroes). Drives ideation and prioritization of discovery pieces from analytics perspective -i.e. ensuring it is done in a data driven manner: uses KPI tree/root cause style analysis to form hypotheses that drive impactful analysis. Ensures the team is working on the most impactful opportunities. Calls out which non-impactful work should stop while identifying emerging trends and potential opportunities or risks."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Same as IC3, but at a larger level across domains (usually comprised of multiple squads/tribe). Identifies and aligns relevant stakholders around projects that are able to address problems related to long-term company goals while identifying synergies and efficiencies across similar teams."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Leads setting KPIs at a small/average size squad/group/pod level, ensures those KPIs are actively used for prioritizing team's work (this includes planning, opp sizing, retroes). Drives ideation and prioritization of discovery pieces from analytics perspective -i.e. ensuring it is done in a data driven manner: uses KPI tree/root cause style analysis to form hypotheses that drive impactful analysis. Ensures the team is working on the most impactful opportunities. Calls out which non-impactful work should stop while identifying emerging trends and potential opportunities or risks."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Links KPIs of own group to that of other groups/larger org squad, tribe, company. Aligns and proposes projects that are able to address problems related to long-term company goals while identifying synergies and efficiencies across similar teams."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Consolidates analytical tools/insights to structure the problem surface of the groups/squads/tribe they support. Links KPI's of own group to that of the broader organisation, and narrates impact of movements on the broader org. Identifies projects that will materially move KPI's; finds synergies across other teams to maximise likelihood of successful execution against objectives."
+                }
+            ]
+        },
+        {
+            "id": "execution",
+            "name": "Execution",
+            "category": "Strategic Thinking",
+            "question": "Do I solve the problems effectively, remove blockers and link solutions to outcomes?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Supports the identification and definition of simple problems within tasks. Balances between trying to solve themselves and asking for help when it becomes sub-optimal. Executes quickly on well scoped tasks and smaller projects. Is disciplined in self-organizing focus time and completing the tasks, while not being overwhelmed by unavoidable distractions."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Defines simple problems clearly, ensuring proper understanding of the scope and applies 80-20 principle (perfect is enemy of good) and delivers usable results quickly. Unblocks themselves with limited to no supervision when solving both technical and non-technical problems. Meets most of the deadlines and still addresses the analytical debt accumulated due to quick fixes while moving forward."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Defines the structure of mid-size projects: definition of done, milestones, dependencies, actions to be taken after the project is completed. Horizon typically within one quarter. Aligns stakeholders and secures resources, advocates for prioritization while continuously meeting the agreed deadlines and raising issues ahead of time. Resolves more ambiguous and open ended problems and makes judgement calls when there is no clear answer and proactively identifies way to solve bottlenecks and remove blockers."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Same as IC3, but at a larger level across domains (usually comprised of multiple squads). Creates well defined roadmaps: a series of mid-size projects under one overarching theme. Horizon spans multiple quarters to a year. Can cut through technical ambiguity easily to execute at pace when working on critical, time-sensitive projects."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Defines the structure of mid-size projects: definition of done, milestones, dependencies, actions to be taken after the project is completed. Horizon typically within one quarter. Aligns stakeholders and secures resources, advocates for prioritization while continuously meeting the agreed deadlines and raising issues ahead of time. Resolves more ambiguous and open ended problems and makes judgement calls when there is no clear answer and proactively identifies way to solve bottlenecks and remove blockers."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Same as AL1, but for larger scope projects and/or projects cutting across several pods. Creates well defined roadmaps: a series of mid-size projects under one overarching theme. Horizon spans multiple quarters to a year."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Owns the definition and delivery of high-impact, resource-intensive projects that span large areas (across groups/squads/tribe). Establishes clear, measurable outcomes for projects and tracks against them. Owns the process of identifying and managing risks and dependencies, driving progress while ensuring accountability."
+                }
+            ]
+        }
+    ],
+    "technical_skills": [
+        {
+            "area": "Data Analysis",
+            "question": "How do I utilize data analysis techniques and tools to support decision-making within the organization?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Basic proficiency in analyzing datasets using tools like Excel, SQL, and Python/R (or similar languages). Understanding of fundamental data analysis techniques, such as descriptive statistics and trend analysis. Ability to prepare and interpret data visualizations to communicate findings."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Performs data analysis tasks such as data cleaning, preparation, and preliminary statistical analysis, with moderate supervision. Utilizes relevant tools and software to generate simple reports and visualizations that clearly communicate findings. Seeks technical guidance from senior team members to ensure accuracy and validity of analysis, continually improving skills and techniques."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Conducts in-depth data analysis adjusting the techniques based on the goal and constraints, identifying trends, patterns, and insights that support decision-making, with occasional supervision. Mentors other team members on best practices in data analysis, ensuring accuracy, consistency, and reproducibility of work while improving the pace of execution."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Leads comprehensive data analysis efforts to support strategic initiatives and organizational goals, operating with high independence. Establishes and ensures adherence to data analysis standards and methodologies across the team, fostering a culture of precision and innovation when performing deep dives. Can leverage a range of techniques from simplistic to statistically rigorous, with a clear udnerstanding of technical pros and cons of each."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Conducts in-depth data analysis adjusting the techniques based on the goal and constraints, identifying trends, patterns, and insights that support decision-making, with occasional supervision. Mentors other team members on best practices in data analysis, ensuring accuracy, consistency, and reproducibility of work while improving the pace of execution."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Leads comprehensive data analysis efforts to support strategic initiatives and organizational goals, operating with high independence. Establishes and ensures adherence to data analysis standards and methodologies across the team, fostering a culture of precision and innovation when performing deep dives."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Leads org-wide initiatives in data analysis, setting standards for analytical rigor and reproducibility. Establishes best practices in data validation and analytical methodologies, ensuring that analyses conducted within the tribe meet the highest standards. Pioneers advanced analytical methods and tools that enhance the quality of insights, positioning analytics as a central pillar of product strategy."
+                }
+            ]
+        },
+        {
+            "area": "Coding",
+            "question": "Do I code and make the most out of our stack based on the tasks that I am assigned?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Basic understanding of coding principles and familiarity with at least one programming language (any scripting language e.g. Python or R) Ability to write simple scripts for data extraction, transformation, and analysis. Familiarity with coding best practices, such as commenting and structuring code for readability."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Writes SQL queries to retrieve and manipulate data from databases, ensuring accuracy and efficiency with moderate supervision. Develops simple scripts (using any scripting language e.g. Python or R) for data processing and basic analysis tasks, focusing on readability and correctness. Ensures code quality by following established coding standards and seeking regular feedback to improve skills."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Designs and optimizes complex SQL queries to support in-depth data analysis and reporting, requiring minimal supervision. Implements advanced scripts (using any scripting language e.g. Python or R) and applications for data analysis, automation, and modeling, emphasizing maintainability and performance (If applicable to current projects). Reviews and refines code to ensure adherence to best practices, mentoring junior analysts on coding techniques and quality assurance."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Pioneers the development of efficient, high-performing SQL queries and database management practices, operating with full independence. Implements robust solutions for comprehensive analytical needs, ensuring scalability and reliability. Establishes and enforces coding standards and best practices across the team, fostering a culture of high-quality, maintainable, and efficient code."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Develops high-performing SQL queries and database management practices, operating with high independence. Oversees the creation and deployment of robust solutions for comprehensive analytical needs, ensuring scalability and reliability as well as alignment to goals Enforces coding standards and best practices across the team, fostering a culture of high-quality, maintainable, and efficient code."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Develops high-performing SQL queries and database management practices, operating with independence. Leads on technology adoption to improve the development process for analyst. Gathers requirements across teams, and builds partnerships to tackle complex technical challenges."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Advocates for and supports delivery and maintenance of high-performance codebase. Identifies opportunities for automation to streamline processes which deliver high-quality data assets to self-serve tools and shared schemes."
+                }
+            ]
+        },
+        {
+            "area": "Communication",
+            "question": "Do I adapt my communication based on the goal and stakeholders to effectively influence decision making?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Drafts basic documentation and wikis, ensuring accuracy and clarity with regular supervision. Adjusts written content with guidance to suit different audiences, learning to tailor messages effectively. Basic skill in answering questions and discussing data-related topics in meetings."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Creates clear and concise wikis and documentation for internal use, ensures accuracy and readability, with moderate supervision. Prepares straightforward presentations focusing on clarity and essential information, often requiring review and feedback from senior team members. Adjusts verbal communication style to suit different audiences such as peers and supervisors, with guidance on effective messaging."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Develops comprehensive and well-structured wikis that facilitate knowledge sharing and easy navigation. Designs detailed presentations that effectively convey complex information, tailored to the audience\u2019s level of understanding, with minimal supervision needed for content quality and can iterate quickly to make improvements. Adapts verbal and written communication to influence based on the goal, whether for informing, persuading, or reporting, ensuring the intended message is clear and impactful."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Oversees the creation of strategic wikis and documentation that align with organizational objectives, ensuring consistency and usefulness, with minimal supervision. Prepares and reviews high-level presentations for stakeholders, adjusting content to meet their expectations and needs, operating with high independence. Skillfully tailors verbal and written communication to influence diverse audiences and purposes, ensuring clarity, engagement, and alignment with strategic goals, demonstrating resilience and autonomy."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Develops comprehensive and well-structured wikis that facilitate knowledge sharing and easy navigation. Designs detailed presentations that effectively convey complex information, tailored to the audience\u2019s level of understanding, with minimal supervision needed for content quality and can iterate quickly to make improvements. Adapts verbal and written communication to influence based on the goal, whether for informing, persuading, or reporting, ensuring the intended message is clear and impactful."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Oversees the creation of strategic wikis and documentation that align with organizational objectives, ensuring consistency and usefulness, with minimal supervision. Prepares and reviews high-level presentations for stakeholders, adjusting content to meet their expectations and needs, operating with high independence. Skillfully tailors verbal and written communication to influence diverse audiences and purposes, ensuring clarity, engagement, and alignment with strategic goals, demonstrating resilience and autonomy."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Crafts high-level communications and presentations for senior leadership, effectively translating complex data into strategic insights that drive decision-making. Skilled in adjusting messaging to resonate with different audiences - enhancing clarity, engagement, and alignment with strategic goals. Demonstrates thought leadership through influencing product directions, analytics practices like testing, and operational improvements by connecting analytical findings to business outcomes."
+                }
+            ]
+        },
+        {
+            "area": "Stakeholder Management",
+            "question": "Do I partner with stakeholders so my outputs can influence decision making?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "Basic understanding of how to build persuasive arguments using data and analytics. Ability to present data-driven recommendations in a way that encourages stakeholder buy-in. Familiarity with techniques for gaining support for ideas and proposals."
+                },
+                {
+                    "level": "IC2",
+                    "description": "Partners with stakeholders by sharing insights and findings, often coordinating through senior staff. Helps resolve conflicts by offering data-driven perspectives and seeking input on proposed solutions. Understands stakeholder needs and priorities and is able to identify the root cause behind conflicts."
+                },
+                {
+                    "level": "IC3",
+                    "description": "Builds strong partnerships with stakeholders by understanding their needs and expectations, ensuring analysis aligns with business goals. Addresses conflicts by using data-driven arguments to mediate and drive consensus, with periodic oversight. Manages expectations and delivers results that align with stakeholder objectives while resolving difficult situations to the best possible extent."
+                },
+                {
+                    "level": "IC4",
+                    "description": "Leads effective partnerships with key senior stakeholders, ensuring their needs and perspectives are integrated into analytical projects, with minimal supervision. Resolves conflicts decisively by leveraging data to support solutions and building consensus among diverse parties, demonstrating resilience and autonomy."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Builds strong partnerships with stakeholders by understanding their needs and expectations, ensuring analysis aligns with business goals. Addresses conflicts by using data-driven arguments to mediate and drive consensus, with periodic oversight. Manages expectations and delivers results that align with stakeholder objectives while resolving difficult situations to the best possible extent."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Leads effective partnerships with key senior stakeholders, ensuring their needs and perspectives are integrated into analytical projects, with minimal supervision. Resolves conflicts decisively by leveraging data to support solutions and building consensus among diverse parties, demonstrating resilience and autonomy."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Builds and commuincates a strong, data-led opinon on the groups/squads/tribe priorities - by combining analytical insights with market context. Builds conviction on the biggest opportinties and influences stakeholders to align resouces against them. Acts as a trusted advisor to x-fcuntional partners, challenging assumptions and driving healthy debate to make decisions and align on priorities. Uses data and a well-articulated point of view to navigate competing priroities, guide discussions and align on stratrgic priroities."
+                }
+            ]
+        },
+        {
+            "area": "Team Structure",
+            "question": "How do I help refine team roles, resource allocation and hiring?",
+            "levels": [
+                {
+                    "level": "IC4",
+                    "description": "Proactively engages with the recruitment team and other analysts to improve how we assess analysts during the hiring process Has strong opinions on where analyst resources would be best deployed, and advocates for staffing which reflects the biggest analytical opportunities in the Organization."
+                },
+                {
+                    "level": "AL1",
+                    "description": "Assists in defining and refining team roles and responsibilities to enhance project efficiency, under occasional supervision. Provides input on resource allocation and task assignments to ensure balanced workloads and effective use of team skills. Fosters collaboration and communication across different roles within the team, identifying structural challenges and proposing improvements."
+                },
+                {
+                    "level": "AL2",
+                    "description": "Designs and implement strategic team structures aligned with organizational goals and project requirements, operating with high independence. Analyzes team strengths and weaknesses to create effective role definitions and ensure optimal resource utilization. Continuously evaluate and adjust team structures based on project demands, individual performance, and organizational changes, fostering adaptability and resilience."
+                },
+                {
+                    "level": "AL3",
+                    "description": "Regularly assesses team roles and responsibilities, ensuing optimal allocation against strategic objectives. Actively participates in design and restructures of area of ownership (i.e. groups/squads/tribe) Embeds a scalable team structure that provides growth opportunities as well as supports continuity planning. Actively assesses hiring status and ensures sufficient progress is made against key roles."
+                }
+            ]
+        }
+    ]
+}

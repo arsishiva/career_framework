@@ -1,0 +1,68 @@
+{
+    "dimensions": [
+        {
+            "id": "proactivity",
+            "name": "Proactivity",
+            "category": "Ownership",
+            "question": "Do I share ideas proactively, find out solutions to problems and seek opportunities to scale impact?",
+            "levels": [
+                {
+                    "level": "IC1",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Proactively updated KPI dashboard metrics.",
+                        "Ex 2: Built Belgium transaction dashboard."
+                    ]
+                },
+                {
+                    "level": "IC2",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Fixed SQL bug in daily data ingest.",
+                        "Ex 2: Automated weekly report using Python."
+                    ]
+                },
+                {
+                    "level": "IC3",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Led project to optimize team's attribution pipeline.",
+                        "Ex 2: Developed automated alerting for data drift."
+                    ]
+                },
+                {
+                    "level": "IC4",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Championed migration to new analytics warehouse.",
+                        "Ex 2: Mentored junior analyst on complex modeling."
+                    ]
+                },
+                {
+                    "level": "AL1",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Led discovery analysis for new market entry.",
+                        "Ex 2: Standardized onboarding process for team."
+                    ]
+                },
+                {
+                    "level": "AL2",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Architected unified analytics framework across pods.",
+                        "Ex 2: Driven cross-functional data-driven culture."
+                    ]
+                },
+                {
+                    "level": "AL3",
+                    "description": "...",
+                    "examples": [
+                        "Ex 1: Defined long-term analytics strategy for tribe.",
+                        "Ex 2: Drove tribe-wide migration to automated self-service."
+                    ]
+                }
+            ]
+        }
+    ]
+}
