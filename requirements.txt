@@ -1,6 +1,6 @@
-# Python dependencies for the Wise Analytics Career Framework
 streamlit>=1.45.0
 pandas>=2.2.0
 plotly>=5.24.0
 pyyaml>=6.0.1
 python-dotenv>=1.0.0
+matplotlib>=3.8.0
